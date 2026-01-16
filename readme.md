@@ -1,9 +1,8 @@
 🏍️ Eureca Helmets
 
-### Capturas de Tela (Screenshots)
+### Visualização
+![Demo do Eureca Helmets](./video/demoReadme.gif)
 
-<video controls src="20260116-0224-46.5922133.mp4" title="Demo"></video>
-## 📖 Sobre o Projeto
 
 O **Eureca Helmets** é um site institucional fictício desenvolvido como projeto da disciplina de **Fundamentos da Programação Web**.
 
