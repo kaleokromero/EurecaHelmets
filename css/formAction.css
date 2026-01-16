@@ -1,0 +1,16 @@
+.features {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10rem 4rem;
+    background-color: var(--light-gray);
+}
+.button { 
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    background-color: #f4511e;
+    color: #FFFFFF;
+    border: none;
+    padding: 10px;
+}
